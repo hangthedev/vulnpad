@@ -1,10 +1,19 @@
-# Vulnpad
+---
+title: Vulnpad
+draft: false
+---
+# Vulnpad.io
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+### Contact
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+Email: Whispr@protonmail.com
+Discord: [hangthe.dev](https://discord.com/users/hangthe.dev)
+___
+### Summary
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+Vulnpad serves as a public repository of resources and guides collected over the years. It aims to provide me and a few others with whom I've shared access with a 'home-portal' of sorts to relevant and useful information.
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+Contributing features are currently being developed. Once established, contributions such as structural edits, additional information, and similar updates will be reviewed and accepted upon vetting.
+
+Contributors will be added to the forthcoming 'Contributors' file.
+
