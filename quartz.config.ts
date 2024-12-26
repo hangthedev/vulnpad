@@ -21,7 +21,6 @@ const config: QuartzConfig = {
     defaultDateType: "created",
     generateSocialImages: false,
     theme: {
-      fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
         header: "Schibsted Grotesk",
@@ -38,18 +37,18 @@ const config: QuartzConfig = {
           secondary: "#284b63",
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          textHighlight: ""
         },
         darkMode: {
-          light: "#161618",
+          light: "#090909",
           lightgray: "#393639",
           gray: "#646464",
           darkgray: "#d4d4d4",
           dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
+          secondary: "#f44336",
+          tertiary: "#ea9999",
           highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          textHighlight: ""
         },
       },
     },
