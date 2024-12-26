@@ -51,6 +51,7 @@ const config: QuartzConfig = {
           textHighlight: ""
         },
       },
+      fontOrigin: "googleFonts"
     },
   },
   plugins: {
